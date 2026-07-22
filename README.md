@@ -2,8 +2,7 @@
 
 A group predictive-modeling project comparing parametric and non-parametric machine learning approaches to forecast employee attrition, using a dataset of 7,590 employees across 20+ HR, job satisfaction, and organizational variables.
 
-![Dashboard Screenshot](assets/turnover-analysis-screenshot.png)
-*(Add a screenshot of a key visual — e.g., the model performance table or feature importance chart — here)*
+![Model Performance Table](Model-Performance-Table.png)
 
 ## Overview
 
@@ -93,7 +92,7 @@ Psychological and managerial factors — not salary or tenure — are the domina
 - Maurine Tanui
 - Poornima Anamaneni Sayeeswaran
 
-*Group 2 — Predictive Modeling Project, AA5300 Advanced Analytics, Saint Louis University*
+Predictive Modeling Project
 
 ## Author (this repo)
 
